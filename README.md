@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="400px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alienover&count_private=true&show_icons=true" />
+<img align="right" width="400px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alienover&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 
 #### 🌈 &nbsp;Tach stacks & Tools
 
